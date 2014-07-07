@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 /* Work in progress still */
 
+=======
+>>>>>>> ff985fcde7e595379f264a15dfee7fdf07321c19
 #include <stdio.h>
 #define MAXLINE 1000
 
